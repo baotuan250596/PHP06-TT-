@@ -1,1 +1,41 @@
-
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Lê Bảo Tuân</title>
+    	<link rel="shortcut icon" href="favicon.ico">
+    	<meta charset="utf-8">
+    	<meta name="description" content="Text HTML">
+    	<meta name="keywords" content="Text HTML">
+        <link rel="stylesheet" href="style1.css">
+    </head>
+<body>
+    <div id="main">
+   		<div id="head">
+        	<h1 align="center">HEADER</h1>
+  		 	 </div>
+   		<div id="nav">
+        	<h1 align="center">NAV</h1>
+    		 </div>
+   	    <div id="section">
+        	<h1 align="center">SECTION</h1>
+             <div id="header">
+             	<h1 align="center">header</h1>
+             </div>   
+             <div id="article">
+             	<h1 align="center">article</h1>
+             </div>          	
+             <div id="footerr">
+             	<h1 align="center">footer</h1>
+             </div>   
+    	</div>
+   	    <div id="aside">
+        	<h1 align="center">ASIDE</h1>
+   			 </div>
+   	    <div id="footer">
+        	<h1 align="center">FOOTER</h1>
+   			 </div>
+	</div>
+     
+        
+</body>
+</html>
